@@ -55,3 +55,6 @@ Feel free to fork this repository, improve the scripts, and submit pull requests
 For any questions or suggestions, feel free to reach out:
 - GitHub: [leul-mulugeta](https://github.com/leul-mulugeta)
 - Email: leulnebeyu22@gmail.com
+
+## Licence
+These projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
